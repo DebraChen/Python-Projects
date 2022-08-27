@@ -1,0 +1,14 @@
+x=2**38 //次方 power
+print(x)
+
+274877906944 //result
+
+
+
+
+
+
+change from
+http://www.pythonchallenge.com/pc/def/0.html
+to
+http://www.pythonchallenge.com/pc/def/274877906944.html
